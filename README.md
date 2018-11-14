@@ -100,41 +100,61 @@ date=2017-12-09
 * What is the fragment?
  no it does exist  because theis not #
 
-#### 6. In the following URL: `http://localhost:4000/admin?`
+#### 6. In the following URL: `http://localhost:4000/localhost?`
 
 * What is the scheme/protocol?
+  http
 * What is the host?
+ localhost
 * What is the port number?
+4000
 * What is the path?
+admin
 * What are the query parameters?
+none
 * What is the fragment?
+none
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
-* What is the scheme/protocol?
+* What is the scheme/protocol?http
+http
 * What is the host?
+www.lehman.edu
 * What is the port number?
+80
 * What is the path?
+/academics/mathematics-computer-science/index.php
+
 * What are the query parameters?
+none
 * What is the fragment?
+none
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
 * What is the scheme/protocol?
+https
 * What is the host?
+en.wikipedia.org
 * What is the port number?
-* What is the path?
+443
+* What is the path?wiki/Greek_alphabet
+
 * What are the query parameters?
+none
 * What is the fragment?
+#Glyph_variants
 
 
 ### 9. HTTPS
 
 What does the S stand for in HTTPS?
-
+it is encrypted 
 Why is HTTPS better than HTTP?
-
+ because it allow security between the user and the server
 Should all web pages use HTTPS?
+yes, today it is easier to implment 
 
 
 ## Webpages
@@ -147,33 +167,36 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 ### 10. What is a webpage?
 
-*Your answer here.*
+A webpage  is html document stored in the server that allow murtiple user to  download it their browsers
+
 
 
 ### 11. Webpage I like
 
 What's one webpage you like? Why?
-
+ goodle, it allow me to find infomation fast.
 
 ### 12. Website I don’t like
 
 What's one webpage you like? Why?
-
+ facebook and all the social netweork, This copanies  have paint attetion to privacity and the emengence of  face news  data driven attacks to our deomocracy  
 
 ### 13. Resources
 
 Where is a good place to look for information about HTML tags?
-
+www.w3schools.com
 
 ### 14. HTML Versions
 
 Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
-
+we covering html  and we DOCTYPE  is html type yet it define the document stadard being used 
 What is XML?
+it give struture to a document  while allow you to create your own tag that 
+can be specially useful in infomation traferming 
 
 What is XHTML?
-
-
+ XHTML    was  the chnage done to  htlm4.0 so webpages could be more stataraized.
+  xHTML evolved into xHTML1.0 wich is the standard used today  in html5 
 ### 15. HTML
 
 Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program?
