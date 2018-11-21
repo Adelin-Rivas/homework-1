@@ -154,6 +154,7 @@ it is encrypted
 Why is HTTPS better than HTTP?
  because it allow security between the user and the server
 Should all web pages use HTTPS?
+it gives more protection and privasity to your users
 yes, today it is easier to implment 
 
 
@@ -174,7 +175,7 @@ A webpage  is html document stored in the server that allow murtiple user to  do
 ### 11. Webpage I like
 
 What's one webpage you like? Why?
- goodle, it allow me to find infomation fast.
+ duckduckgo.com, it allow me to find infomation fast while allowing privasity .
 
 ### 12. Website I don’t like
 
@@ -188,7 +189,10 @@ www.w3schools.com
 
 ### 14. HTML Versions
 
-Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
+Which version of HTML are we covering in this class? 
+we are  HTML5
+
+What is it's DOCTYPE tag?
 we covering html  and we DOCTYPE  is html type yet it define the document stadard being used 
 What is XML?
 it give struture to a document  while allow you to create your own tag that 
@@ -207,54 +211,64 @@ Are HTML files interpreted or executed?
 ### 16. Browser versioning
 
 Which versions of Microsoft Internet Explorer support the `<nav>` tag?
-
+9  10 11
 
 ### 17. HTML Validity
 
 What is one tool that can tell you if you have written valid HTML?
-
+https://validator.w3.org/ this  validy checker prodivded from ther w3c oganization 
 
 ### 18. Accessibility
 
 What does "Accessibility" mean in the context of web development?
+Making sure that  create web that accomidate the diferent softwere that people with disability use to acess the web
+like voice to text 
 
 What types of people does accessibility concern?
+People who sufert from  disabilities  and especially  goverments  that want to make sure that their product
+is accessible to people   with disdabilities 
 
 What is one tool you can use to verify the accessibility of your websites?
-
+http://wave.webaim.org/ this free option look into you website, yet there exist organization  that for modical prices could check your web for accesibility
 
 ### 19. head / body
 
 What is the `<head>` tag for?
-
+contain metada and linking outside resources it also  help the search engine to indeitfied  the   rellevance of the page
 What is the `<body>` tag for?
+contain the  content of website 
 
 
 ### 20. Head…
 
 What's the difference between `<head>`, `<header>`, and heading tags?
-
+head refere to mosly  the metadata and other infomation in the  docuemnt and  cannot be  alocateds into body of the document
+header mean the tag that you want to allocate  before  h1, h2 ... h6
 
 ### 21. Tables
 
-What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)?
+What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? table  theader  tbody tfooter  th tr td
 
 
 ### 22. Non-closing tags
 
 Which tags don't have a closing pair (e.g. `<br>`)?
+  <br> <img>
 
 
 ### 23. Links
 
 How do you make a link open in a new window?
+ you  use  atrribute  taget=_blank  in you  a tag
 
 
 ### 24. IFRAME
 
 What is an IFRAME?
+I frame allow to link other webs direly into your html docuemnt(website)
 
 What are IFRAMEs commonly used for?
+it usualy use to insert video  and other contenct   from other sources 
 
 
 ## Writing Code
@@ -286,7 +300,7 @@ Please modify the [bugs.html](bugs.html) file in this repository to fix the erro
 ### 28. Pace check
 
 Class is going… too slow / just right / too fast.
-
+right 
 
 ### 29. Jobs
 
