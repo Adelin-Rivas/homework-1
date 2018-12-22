@@ -152,6 +152,7 @@ none
 What does the S stand for in HTTPS?
 it is encrypted 
 Why is HTTPS better than HTTP?
+
  because it allow security between the user and the server
 Should all web pages use HTTPS?
 it gives more protection and privasity to your users
@@ -175,79 +176,99 @@ A webpage  is html document stored in the server that allow murtiple user to  do
 ### 11. Webpage I like
 
 What's one webpage you like? Why?
+
  duckduckgo.com, it allow me to find infomation fast while allowing privasity .
 
 ### 12. Website I don’t like
 
 What's one webpage you like? Why?
+
  facebook and all the social netweork, This copanies  have paint attetion to privacity and the emengence of  face news  data driven attacks to our deomocracy  
 
 ### 13. Resources
 
 Where is a good place to look for information about HTML tags?
+
 www.w3schools.com
 
 ### 14. HTML Versions
 
 Which version of HTML are we covering in this class? 
+
 we are  HTML5
 
 What is it's DOCTYPE tag?
+
 we covering html  and we DOCTYPE  is html type yet it define the document stadard being used 
 What is XML?
+
 it give struture to a document  while allow you to create your own tag that 
+
 can be specially useful in infomation traferming 
 
 What is XHTML?
+
  XHTML    was  the chnage done to  htlm4.0 so webpages could be more stataraized.
+ 
   xHTML evolved into xHTML1.0 wich is the standard used today  in html5 
 ### 15. HTML
 
 Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program?
-
+no they intepreted. the system look in ordering
 Are HTML files interpreted or executed?
 
+ they are interpreted
 
 ### 16. Browser versioning
 
 Which versions of Microsoft Internet Explorer support the `<nav>` tag?
+
 9  10 11
 
 ### 17. HTML Validity
 
 What is one tool that can tell you if you have written valid HTML?
+
 https://validator.w3.org/ this  validy checker prodivded from ther w3c oganization 
 
 ### 18. Accessibility
 
 What does "Accessibility" mean in the context of web development?
+
 Making sure that  create web that accomidate the diferent softwere that people with disability use to acess the web
 like voice to text 
 
 What types of people does accessibility concern?
+
 People who sufert from  disabilities  and especially  goverments  that want to make sure that their product
 is accessible to people   with disdabilities 
 
 What is one tool you can use to verify the accessibility of your websites?
+
 http://wave.webaim.org/ this free option look into you website, yet there exist organization  that for modical prices could check your web for accesibility
 
 ### 19. head / body
 
 What is the `<head>` tag for?
+
 contain metada and linking outside resources it also  help the search engine to indeitfied  the   rellevance of the page
+
 What is the `<body>` tag for?
+
 contain the  content of website 
 
 
 ### 20. Head…
 
 What's the difference between `<head>`, `<header>`, and heading tags?
+
 head refere to mosly  the metadata and other infomation in the  docuemnt and  cannot be  alocateds into body of the document
 header mean the tag that you want to allocate  before  h1, h2 ... h6
 
 ### 21. Tables
 
-What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? table  theader  tbody tfooter  th tr td
+What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? 
+table  theader  tbody tfooter  th tr td
 
 
 ### 22. Non-closing tags
@@ -266,8 +287,9 @@ How do you make a link open in a new window?
 
 What is an IFRAME?
 I frame allow to link other webs direly into your html docuemnt(website)
-
+to incert a wesite direly in to yours 
 What are IFRAMEs commonly used for?
+ 
 it usualy use to insert video  and other contenct   from other sources 
 
 
@@ -282,11 +304,14 @@ Because you enabled GitHub Pages above, you can actually view these pages in you
 Please modify the [science.html](./science.html) file in this repository to make the resulting webpage look like this:
 
 ![Science webpage](images/science.png)
-
+  
+https://adelin-rivas.github.io/science/
 
 ### 26. olympics.html
 
 Please modify the [olympics.html](olympics.html) file in this repository to make the resulting webpage look like this:
+
+https://adelin-rivas.github.io/winter-olympic/
 
 ![Olympics webpage](images/olympics.png)
 
@@ -305,5 +330,7 @@ right
 ### 29. Jobs
 
 Add a link to one web development job based in NYC:
-
+https://www.indeed.com/q-Web-Developer-jobs.html?vjk=54f7acffd1c52542
 What do you still need to learn to meet the requirements?
+ HP and SQL
+ git
